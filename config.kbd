@@ -21,7 +21,7 @@
 	tab  q    w    e    r    t    y    u    i    o    p    [    ]    \
 	caps a    s    d    f    g    h    j    k    l    ;    '    ret
 	lsft z    x    c    v    b    n    m    ,    .    /    rsft
-	lctl met  lalt           spc            @ltx rctl lft  up   down rght
+	lctl met  lalt           spc            ralt @ltx lft  up   down rght
 )
 
 
@@ -92,7 +92,7 @@
 	tab  @sqrt    w    @eq    @ref    t    y    u    @int    o    p    @brk    @brk    \
 	caps @al    @sum    d    @frc    @lgr    h    j    k    @lim    ;    '    ret
 	@lsf z    x    @cite    @mbf    @mbb    n    m    ,    .    /    @lsf
-	lctl met  lalt           spc           _ rctl lft  up   down rght
+	lctl met  lalt           spc           ralt _ lft  up   down rght
 )
 
 
@@ -102,7 +102,7 @@
 	tab  q    w    e    r    t    y    u    i    o    p    @sqg    @sqg    @mbr
 	caps a    s    d    f    @lgs    h    j    k    l    ;    '    ret
 	_ z    x    c    v    b    n    m    @ang    @ang    /    _
-	lctl met  lalt           spc            _ rctl lft  up   down rght
+	lctl met  lalt           spc            ralt _ lft  up   down rght
 )
 
 (deflayer latex-greek
@@ -111,7 +111,7 @@
 	tab  q    @omg    @eps    r    @the    y    u    i    @omg    @phi    [    ]    \
 	caps @alf    s    @del    @phi    _    @chi    j    k    @lam    ;    '    ret
 	@lgs @zet    @chi    @gam    v    @bet    n    @mu    ,    .    /    @lgs
-	lctl met  lalt           spc            _ rctl lft  up   down rght
+	lctl met  lalt           spc            ralt _ lft  up   down rght
 )
 
 
@@ -121,6 +121,6 @@
 	tab  q    @Omg    e    r    @The    y    u    i    @Omg    @Phi    [    ]    \
 	caps a    s    @Del    @Phi    _    h    j    k    @Lam    ;    '    ret
 	_ z    x    @Gam    v    b    n    m    ,    .    /    _
-	lctl met  lalt           spc            _ rctl lft  up   down rght
+	lctl met  lalt           spc            ralt _ lft  up   down rght
 )
 

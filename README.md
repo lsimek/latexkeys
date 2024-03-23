@@ -1,5 +1,6 @@
 # latexkeys
 This is a keyboard configuration using [KMonad](https://github.com/kmonad/kmonad)
+This branch uses right control for the `com` key.
 
 ## Index
 The key that switches to the LaTeX configuration is refered to as com and is AltGr by default (you may consider changing this if you are already using AltGr as part of your keyboard layout). Other important keys are shift (either left or right) and g (for greek letters).
