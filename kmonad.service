@@ -1,0 +1,13 @@
+[Unit]
+Description=KMonad Keyboard Remapper
+After=network.target
+
+[Service]
+Type=simple
+ExecStart=/home/tinjano/.local/bin/kmonad /home/tinjano/.kmonad/config.kbd
+Restart=always
+User=root
+Group=root
+
+[Install]
+WantedBy=multi-user.target
