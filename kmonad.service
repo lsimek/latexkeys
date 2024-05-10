@@ -4,7 +4,7 @@ After=network.target
 
 [Service]
 Type=simple
-ExecStart=/home/tinjano/.local/bin/kmonad /home/tinjano/.kmonad/config.kbd
+ExecStart=/home/lsimek/.local/bin/kmonad /home/tinjano/.kmonad/config.kbd
 Restart=always
 User=root
 Group=root

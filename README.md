@@ -30,8 +30,8 @@ The key that switches to the LaTeX configuration is refered to as com and is Alt
 ## How to Use
 See KMonad [installation](https://github.com/kmonad/kmonad/blob/master/doc/installation.md) instructions. Then run (for example)
 ```bash
-git clone https://github.com/tinjano/latexkeys
-sudo /home/tinjano/.local/bin/kmonad config.kbd
+git clone https://github.com/lsimek/latexkeys
+sudo $(which kmonad) latexkeys/config.kbd
 ```
 To use it on startup, see `kmonad.service` and place it in `etc/sysyemd/system/`.
 
